@@ -12,7 +12,7 @@ cpadt es Corporación Pedagógica de Acción para el Desarrollo Territorial orie
 
 Para instalar cpadt, sigue estos pasos:
 
-1. Clone este repositorio: `git clone https://github.com/tuusuario/cpadt.git`
+1. Clone este repositorio: `git clone https://github.com/Johan-dev16/cpadt.git`
 2. Navega al directorio del proyecto: `cd cpadt`
 3. Instala las dependencias: `npm install`
 4. Inicia la aplicación: `npm start`
